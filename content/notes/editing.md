@@ -11,6 +11,8 @@ Quartz runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Ma
 ### Folder Structure
 Here's a rough overview of what's what.
 
+And [[notes/A new note]] to test things out.
+
 **All content in your garden can found in the `/content` folder.** To make edits, you can open any of the files and make changes directly and save it. You can organize content into any folder you'd like.
 
 **To edit the main home page, open `/content/_index.md`.**
